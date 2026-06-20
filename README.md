@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="393" height="366" alt="image" src="https://github.com/user-attachments/assets/e6d2a43c-b0c3-43e6-982f-6428e82f7af6" />
+I live in Belarus and I am studying at a university. 🇧🇾
+I am 18 years old. 
+I want to find more time for code. 👨‍💻
+A fun fact: I am very thin and quite small, although I eat a lot. 🍕
+A little about the OS: my main OS is Gentoo, I compiled a custom kernel, my init is OpenRC, Hyprland, I don't use a display manager. 🐧
+I hate vibe-coding. 🚫
+What else, well, in principle, that's all. 🔚
+
