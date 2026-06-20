@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello
 
 <!--
 **sc0dyx/sc0dyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img width="393" height="366" alt="image" src="https://github.com/user-attachments/assets/e6d2a43c-b0c3-43e6-982f-6428e82f7af6" />
+---
 I live in Belarus and I am studying at a university. 🇧🇾
 I am 18 years old. 
 I want to find more time for code. 👨‍💻
