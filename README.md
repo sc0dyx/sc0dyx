@@ -19,10 +19,16 @@ Here are some ideas to get you started:
 ---
 
 I live in Belarus and I am studying at a university. 🇧🇾
+
 I am 18 years old. 
+
 I want to find more time for code. 👨‍💻
+
 A fun fact: I am very thin and quite small, although I eat a lot. 🍕
+
 A little about the OS: my main OS is Gentoo, I compiled a custom kernel, my init is OpenRC, Hyprland, I don't use a display manager. 🐧
+
 I hate vibe-coding. 🚫
+
 What else, well, in principle, that's all. 🔚
 
