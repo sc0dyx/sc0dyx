@@ -34,3 +34,5 @@ I hate vibe-coding. 🚫
 
 What else, well, in principle, that's all. 🔚
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6d4ed919-9db4-4d3c-b13e-818c237a4d40" />
+
