@@ -45,4 +45,4 @@ ETH 9b15cca23a039307c95a3e9dfae3516db9bfae75
 
 LTC LXoBdb4Qxms44eYYPvM9D9r1UdARUVyrxg
 
-tg @scodyx
+tg [@scodyx](https://t.me/scodyx)
