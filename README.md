@@ -40,5 +40,9 @@ my active project
 [pylowlvl-os](https://github.com/sc0dyx/pylowlvl-os)
 
 BTC 1LSCH4A7HkKdFFC9rdyGh6v7L1oqVkbSY3
+
 ETH 9b15cca23a039307c95a3e9dfae3516db9bfae75
+
 LTC LXoBdb4Qxms44eYYPvM9D9r1UdARUVyrxg
+
+tg @scodyx
