@@ -34,7 +34,7 @@ I hate vibe-coding. 🚫
 
 What else, well, in principle, that's all. 🔚
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6d4ed919-9db4-4d3c-b13e-818c237a4d40" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d6ad584-4889-47d3-8674-758b0740df30" />
 
 my active project
 [pylowlvl-os](https://github.com/sc0dyx/pylowlvl-os)
