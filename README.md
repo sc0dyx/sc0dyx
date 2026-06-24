@@ -32,17 +32,15 @@ A little about the OS: my main OS is Gentoo, I compiled a custom kernel, my init
 
 I hate vibe-coding. 🚫
 
-What else, well, in principle, that's all. 🔚
-
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d6ad584-4889-47d3-8674-758b0740df30" />
 
 my active project
 [pylowlvl-os](https://github.com/sc0dyx/pylowlvl-os)
 
-BTC 1LSCH4A7HkKdFFC9rdyGh6v7L1oqVkbSY3
+BTC `1LSCH4A7HkKdFFC9rdyGh6v7L1oqVkbSY3`
 
-ETH 9b15cca23a039307c95a3e9dfae3516db9bfae75
+ETH `9b15cca23a039307c95a3e9dfae3516db9bfae75`
 
-LTC LXoBdb4Qxms44eYYPvM9D9r1UdARUVyrxg
+LTC `LXoBdb4Qxms44eYYPvM9D9r1UdARUVyrxg`
 
 tg [@scodyx](https://t.me/scodyx)
